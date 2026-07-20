@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutobluApp</string>
+    <string name="username">Nome utente</string>
+    <string name="password">Password</string>
+    <string name="login">Accedi</string>
+    <string name="login_title">A U T O B L U</string>
+    <string name="debug_ip_address">[DEBUG] Indirizzo IP</string>
+</resources>
